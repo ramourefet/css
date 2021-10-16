@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+#newsHolder {
+    display: none;
+}
+#termsInfo {
+    display: none
+}
+#voiceDisplay {
+    display: none;
+}
+.youNewDiv {
+    display: none!important;
+}
+#streamContainer {
+    display: none;
+}
+.bigMFeatBarI {
+    display: none!important;
+}
+#mLevelCont {
+    display: none;
+}
+
+.headerBar {
+    background: transparent;
+}
+#mailCount {
+    display: none!important;
+}
+#menuMiniProfilePic {
+    display: none;
+}
+#menuItemContainer {
+    background: transparent;
+}
+#menuAccountUsername {
+    padding-left: 20px;
+    padding-top: 2px
+}
+#signedInHeaderBar {
+    text-shadow: 0 0 8px black;
+    padding-top: 2px!important;
+    padding-left: 20px!important;
+    filter: grayscale(1)
+}
+.progressBarInner {
+    background: white!important;
+}
+#menuKRCount {
+    color: white;
+}
+#menuJNKCount {
+    color: white;
+}
+.menBtnIcn {
+    text-shadow: 0 0 8px black;
+    color: var(--icons) !important;
+    opacity: 1;
+}
+.menuItemTitle {
+    display: none;
+}
+#headerRight .verticalSeparator {
+    display: none;
+}
+.menuSocialB {
+    display: none;
+}
+#editorBtnM {
+    display: none;
+}
+#menuFPSDisplay {
+    display: none!important;
+}
+#menuPingDisplay {
+    display: none!important;
+}
+#menuRegionLabel {
+    font-size: 20px;
+}
+#aHolder {
+    height: 0px!important;
+    display: none!important;
+}
+#subLogoButtons {
+    bottom: 120px;
+}
+#menuBtnHost {
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+}
+#menuBtnBrowser {
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+}
+#menuBtnRanked {
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+}
+#inviteButton {
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+    box-shadow: 0 0 8px black;
+    text-shadow: 0 0 8px black;
+}
+#menuBtnJoin {
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+}
+#faceItIconM {
+    display: none;
+}
+#menuClassName {
+    opacity: 0;
+    height:
+}
+#menuClassSubtext {
+    opacity: 0;
+}
+.menuClassLevelBox {
+    display: none;
+}
+#customizeButton {
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+}
+#policeButton {
+    text-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+    border: 4px var(--buttonborder) solid !important;
+    border-radius: 15px;
+    background: none;
+}
+#gameNameHolder {
+    display: none;
+}
+#seasonLabel {
+    display: none;
+}
+.menuClassPlayerClan {
+    display: none;
+}
+#menuRegionLabel {
+    text-shadow: 0 0 8px black;
+}
+#mapInfo {
+    text-shadow: 0 0 8px black;
+}
+#timerDisplay {
+    text-shadow: 0 0 8px black;
+    background: transparent;
+    width: 20px;
+}
+#timerIcon {
+    display: none;
+}
+#curGameInfo {
+    display: none;
+}
+.debugInfo {
+    text-shadow: 0 0 8px black;
+    padding-top: 73px;
+    margin-left: -45px;
+}
+#chatList {
+    background: transparent;
+    text-shadow: 0 0 8px black;
+}
+#chatInputHolder {
+    background: transparent;
+    border: 0;
+}
+#chatInput {
+    text-shadow: 0 0 8px black;
+    background: 0;
+    border-bottom: 3px white solid!important;
+    border: 0;
+}
+#chatSwitch {
+    text-shadow: 0 0 8px black;
+}
+#hudClassImg,
+#hudClassIcon {
+    display: none;
+}
+#challIcon {
+    display: none
+}
+#healthValueHolder {
+    background: none;
+}
+#healthValue {
+    position: relative;
+    top: 50px;
+    font-size: 95px;
+    font-family: 'Inconsolata', monospace;
+    text-shadow: 0 0 8px black;
+}
+#healthValue:after {
+    position: relative;
+    content: "健康";
+    top: -8px;
+    opacity: 0.5;
+    font-size: 60px;
+}
+#maxHP {
+    display: none;
+}
+#healthBar {
+
+    position: relative;
+    top: 23px;
+    left: 20px;
+}
+.healthBarSeg {
+
+    width: 50px;
+    height: 9px;
+    border-radius: 0;
+    margin-right: 0px;
+}
+.hpBSeg {
+    background-color: var(--hpbar) !important;
+    color: var(--hpbar) !important;
+    box-shadow: none!important;
+    border-radius: 0;
+}
+#endAContainer {
+    display: none;
+}
+#ammoDisplay {
+    border-radius: 0;
+    padding-bottom: -100px;
+    background: none;
+    border-bottom: 9px var(--ammobar) solid;
+}
+
+#ammoMax {
+    display: none;
+}
+#ammoVal {
+    position: relative;
+    text-shadow: 0 0 8px black;
+    font-size: 95px;
+    top: -31px;
+    font-family: 'Inconsolata', monospace;
+}
+#ammoVal:before {
+    content: "弾薬";
+    margin-right: 55px;
+    text-shadow: 0 0 8px black;
+    position: relative;
+    top: -8px;
+    opacity: 0.5;
+    font-size: 60px;
+}
+#ammoIcon {
+    display: none;
+}
+
+
+.weapKey {
+    display: none;
+}
+#weapDisplay {
+    width: 200px;
+    position: fixed;
+    bottom: 35px;
+    left: calc(50% - 200px);
+    display: flex!important;
+}
+#teamScores {
+    text-shadow: 0 0 8px black;
+    background: transparent !important;
+    padding-left: 12px;
+}
+#roundsDisplay {
+    text-shadow: 0 0 8px black;
+    background: transparent;
+}
+.roundScrV {
+    text-shadow: 0 0 8px black;
+    border-bottom: none!important;
+    background: transparent;
+}
+#roundTSc2 {
+    color: #eb4034;
+}
+#roundTSc1 {
+    color: #ffffff;
+}
+#compTimBox {
+    margin-top: -10px;
+    text-shadow: 0 0 8px black;
+}
+#leaderDisplay {
+    text-shadow: 0 0 8px black;
+    background: transparent;
+}
+.topRightCounters {
+    background: none!important;
+    text-shadow: 0 0 8px black;
+}
+.countIcon {
+    background: none!important;
+}
